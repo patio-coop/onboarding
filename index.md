@@ -1,7 +1,7 @@
 # Patio Members Onboarding
 
 ## Overview
-- About
+- [About](/assets/about.md)
 - Mision / Vision / Values
 - Culture
 - Channels to Communicate
