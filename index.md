@@ -2,8 +2,8 @@
 
 ## Overview
 - [About](/content/about.md)
-- Mision / Vision / Values
-- Culture
+- [Mision / Vision / Values](/content/mision-mision-values.md)
+- [Culture](/content/culture.md)
 - Channels to Communicate
 - How to interact with the community?
 
