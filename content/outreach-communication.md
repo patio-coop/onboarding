@@ -16,5 +16,5 @@ Here are the main objectives of the Outreach & Communication Circle:
 
 The Outreach & Communication Circle, therefore, acts as Patio's megaphone and earpiece, managing how we speak to the world and how we listen to our members. It is the embodiment of Patio's commitment to open communication, upholding transparency and fostering collaboration.
 
-Here is the Trello board of our activities
+Here is the [Trello board](...) of our activities.
 If you want to contribute to the circle's activities, please reach out in the Channel - .....
