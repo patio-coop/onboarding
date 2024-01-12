@@ -11,4 +11,4 @@ The heart of Patio's functioning lies in collaboration and mutual assistance. Ev
 
 Patio is an integral part of the global movement of tech cooperatives, which strongly advocates for knowledge sharing, resource pooling, and collaborative opportunities. This worldwide community links similar cooperatives, thereby fortifying our collective capacities and resilience. 🌐💫
 
-Stepping into Patio, you are joining more than just a tech cooperative. You are entering a community that emphasizes transparency, collaboration, and shared triumphs. As you embark on your journey with us, remember, you're not just a member, you're an essential part of a connected, democratic, and future-oriented tech cooperative. Patio welcomes you to an exciting journey ahead! 🚀
+Stepping into Patio, you are joining more than just a tech cooperative network. You are entering a community that emphasizes transparency, collaboration, and shared triumphs. As you embark on your journey with us, remember, you're not just a member, you're an essential part of a connected, democratic, and future-oriented tech cooperative. Patio welcomes you to an exciting journey ahead! 🚀
