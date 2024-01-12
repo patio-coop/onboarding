@@ -15,4 +15,6 @@ Below, we outline the top 5 reasons why we've chosen BigBlueButton:
 5.  **Commitment to Accessibility**  🚹 🚺: Accessibility is at the core of BigBlueButton's design. It ensures that every co-owner, regardless of their physical abilities or geographical constraints, can fully participate in our cooperative's tasks and decisions, thereby strengthening our commitment to inclusivity.
     
 
-By choosing BigBlueButton, we are not just picking a communication tool 🛠️; we are embracing a platform that aligns with our core principles and helps us foster the ideals of our cooperative. Just as every co-owner plays a vital role in Patio, every interaction on BigBlueButton adds value to our shared journey 🛣️. Happy communicating at Patio! 🚀🎈
+By choosing BigBlueButton, we are not just picking a communication tool 🛠️; we are embracing a platform that aligns with our core principles and helps us foster the ideals of our cooperative. Just as every co-owner plays a vital role in Patio, every interaction on BigBlueButton adds value to our shared journey 🛣️. 
+
+Happy communicating at Patio! 🚀🎈
