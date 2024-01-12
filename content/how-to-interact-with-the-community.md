@@ -9,6 +9,6 @@ At Patio, we believe in the power of communication, and we thrives on interactio
     
 4.  **Reach out for Help**  🆘: If you're feeling lost or can't find a channel or circle that aligns with your initiative, don't worry. Our community is always here to help. Just write your query in the Help Channel on Mattermost, and our members will be more than happy to guide you.
     
-Don't hesitate to share your thoughts, ask for help, or simply strike up a conversation. Every voice counts at Patio!
+Don't hesitate to share your thoughts, ask for help, or simply strike a conversation. Every voice counts at Patio!
 
 Happy communicating and welcome aboard the Patio journey! 🌍🎉✨
