@@ -1,35 +1,47 @@
-Slogans: Technology for a fair and better world
+## Slogans 📣
 
-**Mission Statements**
+Creating a fair and better world through technology!
 
-**Community Mission:**
+## Mission Statements 🎯
 
-We foster an inclusive, global federation of technology cooperatives, advancing social innovation through technology. We focus on democratizing the technology sector in solidarity with the social economy movement.
+**Community Mission**
 
-**Business Mission:**
+At Patio, we are heralding an all-inclusive, worldwide federation of tech cooperatives, propelling social innovation via technology. Our focus is on democratizing the tech domain, in unison with the social economy movement.
 
-As tech professionals, we unite to provide creative, diverse, and innovative solutions to meet our clients’ needs.
+**Business Mission**
 
-**Vision Statements**
+As tech connoisseurs, we band together to deliver creative, varied, and ground-breaking solutions to meet the needs of our clients.
 
-**Business vision:**
+## Vision Statements 🔮
 
-We envision Patio as an international technology federation, working in collaboration with our partners and stakeholders on transformative projects that bring significant social impact.
+**Business Vision**
 
-**Community vision:**
+Our vision for Patio is to be an international federation in the technology realm, closely collaborating with our partners and stakeholders on trailblazing projects that yield significant social impact.
 
-We envision an active democratic cooperative community, working together to design and develop human-centered technologies that shape a prosperous and inclusive future, nurturing personal and collective growth.
+**Community Vision**
 
-**Patio Values Statement**
+We envisage an engaged, democratic cooperative community, joining hands to conceive and create human-centered technologies. These technologies will architect a flourishing and inclusive future, nurturing both personal and collective growth.
 
-- **Responsibility / Accountability / Reliability**: We hold ourselves responsible, ensuring that our actions and decisions align with our commitment to the work and the community.
-- **Openness / Transparency:** We champion open communication and clarity in our processes, fostering trust with community members and business partners. This	value is reflected in the company's vision to "build an inclusive, open, and transparent global network of technology cooperatives."
-- **Social Impact:** We are committed to using technology to create positive social change in favor of economic, climate, racial justice, etc.
-- **Collaboration / Cooperation:** We believe that collaboration is essential to achieving its goals
-- **Innovation:** we provide creative, diverse, and innovative solutions to meet our clients' needs.
-- **Diversity and inclusion:** we foster an inclusive workplace where everyone feels valued and respected.
-- **Democracy:** we support democratic principles and processes in our operations and interactions with the community.
-- **Solidarity:** we support our members and show empathy for our needs and also for people and groups struggling around the world.
-- **Personal and collective growth:** we provide opportunities for our members to grow personally and professionally.
-- **Worker Ownership:** Advocating for worker ownership is our cooperative model's cornerstone.
-- **Autonomy:** Respecting the autonomy of each cooperative in their specific approaches and values.
+## Patio Values Statement 🌈
+
+**Responsibility / Accountability / Reliability**  📝: Each step we take and decision we make aligns with our dedication to our work and our community.
+
+**Openness / Transparency**  👁️: We advocate for open communication and clarity in our operations, nurturing trust with community members and business partners.
+
+**Social Impact**  🌍: We are unwavering in our commitment to use technology as a tool for positive social transformation—be it for economic, climate, or racial justice.
+
+**Collaboration / Cooperation**  🤝: We firmly believe that collaboration is the cornerstone to achieving our objectives.
+
+**Innovation**  💡: We deliver inventive, diverse, and innovative solutions to meet the needs of our clients.
+
+**Diversity and Inclusion**  🏳️‍🌈: We cultivate an inclusive environment where every individual is valued and respected.
+
+**Democracy**  🕊️: Our operations and interactions echo our support for democratic principles and processes.
+
+**Solidarity**  ❤️: We stand shoulder-to-shoulder with our members, empathizing with their needs and those of people and groups struggling worldwide.
+
+**Personal and Collective Growth**  🌱: We offer opportunities for our members to blossom, both personally and professionally.
+
+**Worker Ownership**  🙌: We staunchly advocate for worker ownership, which is the bedrock of our cooperative model.
+
+**Autonomy**  💼: We respect the autonomy of each cooperative, valuing their unique approaches and principles.
