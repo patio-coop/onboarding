@@ -8,13 +8,13 @@ In some situations, we might decide to use Consensus, Majority, or Autonomy, but
 
 Here is the main difference between the approaches:
 
--   Consent Decision Making: This approach focuses on identifying and resolving any objections to a proposed decision, aiming for an outcome that's "good enough for now" and "safe enough to try", rather than seeking total agreement.
+-   **Consent Decision Making:** This approach focuses on identifying and resolving any objections to a proposed decision, aiming for an outcome that's "good enough for now" and "safe enough to try", rather than seeking total agreement.
     
--   Consensus Decision Making: In this method, all participants collaboratively develop, agree on, and are satisfied with a decision, ensuring that everyone's opinions are considered.
+-   **Consensus Decision Making:** In this method, all participants collaboratively develop, agree on, and are satisfied with a decision, ensuring that everyone's opinions are considered.
     
--   Majority Decision-Making: This form of decision-making follows a voting system where the choice gaining more than half of the votes becomes the selected decision.
+-   **Majority Decision-Making:** This form of decision-making follows a voting system where the choice gaining more than half of the votes becomes the selected decision.
     
--   Аutonomy Decision-Making: In this style, decisions are made by a single person or a select few without the input of others, typically reflecting the preferences or judgment of the individuals in power.
+-   **Аutonomy Decision-Making:** In this style, decisions are made by a single person or a select few without the input of others, typically reflecting the preferences or judgment of the individuals in power.
     
 
   
@@ -45,7 +45,7 @@ In the process, 5 main rounds are covered:
 Each round has a timeline defined by the creator of the proposal (facilitator) within the participant should engage accordingly.  
   
 
-**Round 1 - Present a proposal:**  
+## **Round 1 - Present a proposal:**  
 Who participates in the round?  
 Facilitator of the proposal.
 
@@ -62,12 +62,12 @@ What does it mean to be a facilitator of a decision-making process proposal?
 -   The facilitator makes sure the timelines of the decision process are fulfilled
     
 
-What proposal means:  
+**What proposal means:**  
 It presents a problem and a proposal that solves that specific problem.
 
 ----------
 
-**Round 2 - Clarifying Questions:**  
+## **Round 2 - Clarifying Questions:**  
 Who participates in the round?  
 The entire community including the facilitator
 
@@ -77,7 +77,7 @@ If any participant is unsure or lacks full support for the proposal due to a lac
 
 ----------
 
-**Round 3 - Reactions:**  
+## **Round 3 - Reactions:**  
 Who participates in the round?  
 The entire community including the facilitator, who will aim to make a summary of the reactions
 
@@ -130,7 +130,7 @@ This way, all community members have their thoughts and concerns addressed, ensu
 
 ----------
 
-**Round 4 - Amend the proposal:**  
+## **Round 4 - Amend the proposal:**  
 Who participates in the round?  
 Only the facilitator
 
@@ -138,7 +138,7 @@ Based on all reactions the facilitator can choose to amend the proposal.
 
 ----------
 
-**Round 5 - Vote - Consent or Object to the proposal.**
+## **Round 5 - Vote - Consent or Object to the proposal.**
 
 Who participates in the round?  
 Everyone
