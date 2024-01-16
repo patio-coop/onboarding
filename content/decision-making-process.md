@@ -85,7 +85,7 @@ Everyone can give reactions to the proposal. What do you like, what you don't li
   
 If there are objections, now is the time for people to raise them. They should be specific, not subjective. Also, an alternative should be provided to the objection.  
   
-How to validate if your objection is not subjective:  
+**How to validate if your objection is not subjective:**  
   
 In Sociocratic Consent Decision-Making, objections are considered valid if they meet the following criteria:
 
@@ -104,23 +104,23 @@ This checklist can be used to validate objections in a sociocratic decision-maki
   
 *Please read the section “How to deal with objections”. If after the debates about the objection the group decides that it makes sense to amend the proposal*
 
-  
+---
   
 
-Here's a clearer version of the steps to follow if an objection arises in the Reactions round:
+**Here's a clearer version of the steps to follow if an objection arises in the Reactions round:**
 
   
-1.  Initiate the Reactions round: Begin the round where participants share their reactions to the proposal.
+1.  **Initiate the Reactions round:** Begin the round where participants share their reactions to the proposal.
     
-2.  Raise an Objection: If a community member has an objection, they share it. This objection should meet the agreed-upon criteria, i.e., it isn't merely subjective but is based on valid concerns relevant to the group's shared aim.
+2.  **Raise an Objection:** If a community member has an objection, they share it. This objection should meet the agreed-upon criteria, i.e., it isn't merely subjective but is based on valid concerns relevant to the group's shared aim.
     
-3.  Present an Alternative: The person objecting should propose an alternative solution to address their concern in the context of the original proposal.
+3.  **Present an Alternative:** The person objecting should propose an alternative solution to address their concern in the context of the original proposal.
     
-4.  Discuss the Objection: All community members then debate and discuss the relevance and potential impact of the objection.
+4.  **Discuss the Objection:** All community members then debate and discuss the relevance and potential impact of the objection.
     
-5.  Incorporate the Objection into the Proposal: If, after discussion, the group consensus is that the objection is valid and should be considered, the facilitator summarizes the revised proposal. This new proposal incorporates the suggestion made in the objection and triggers another round of questions and reactions.
+5.  **Incorporate the Objection into the Proposal:** If, after discussion, the group consensus is that the objection is valid and should be considered, the facilitator summarizes the revised proposal. This new proposal incorporates the suggestion made in the objection and triggers another round of questions and reactions.
     
-6.  Move to the Voting Round: Once both the question and reaction rounds have been completed, the group proceeds toward the voting round to finalize the decision on the revised proposal.
+6.  **Move to the Voting Round:** Once both the question and reaction rounds have been completed, the group proceeds toward the voting round to finalize the decision on the revised proposal.
     
 
 This way, all community members have their thoughts and concerns addressed, ensuring a democratic, thoughtful, and inclusive decision-making process.
@@ -151,19 +151,19 @@ An objection is an argument that reveals consequences or risks for the community
 
 # How to deal with objections:
 
-1.  Raise Concerns Together With Explicit and Practical Alternatives or Adjustments. This way, it is easier for everyone to understand the objection and incorporate it into the proposal to improve or enrich it.
+1.  **Raise Concerns Together With Explicit and Practical Alternatives or Adjustments.** This way, it is easier for everyone to understand the objection and incorporate it into the proposal to improve or enrich it.
     
-2.  Encourage the Expression of Objections: Foster an environment where raising objections is seen as constructive rather than disruptive.
+2.  **Encourage the Expression of Objections:** Foster an environment where raising objections is seen as constructive rather than disruptive.
     
-3.  Listen and Understand: Make sure each objection is heard, understood, and recorded. This encourages transparency and shows that all perspectives are valued.
+3.  **Listen and Understand:** Make sure each objection is heard, understood, and recorded. This encourages transparency and shows that all perspectives are valued.
     
-4.  Examine Objections: Determine if the objections are based on valid concerns or simply personal preferences. Only act on objections that reveal potential undesirable consequences or worthwhile improvements.
+4.  **Examine Objections:** Determine if the objections are based on valid concerns or simply personal preferences. Only act on objections that reveal potential undesirable consequences or worthwhile improvements.
     
-5.  Discuss and Seek Solutions: Involve the team in finding solutions to the issues raised in the objections. This could involve modifying the original decision, providing additional information or context, or finding a completely new solution that addresses the objection.
+5.  **Discuss and Seek Solutions:** Involve the team in finding solutions to the issues raised in the objections. This could involve modifying the original decision, providing additional information or context, or finding a completely new solution that addresses the objection.
     
-6.  Resolve Objections: Changes should be made to proposals or decisions in ways that address the objections raised.
+6.  **Resolve Objections:** Changes should be made to proposals or decisions in ways that address the objections raised.
     
-7.  Review and Learn: Treat every objection as a learning opportunity. Use the experience to refine future decision-making processes and avoid similar objections in the future.
+7.  **Review and Learn:** Treat every objection as a learning opportunity. Use the experience to refine future decision-making processes and avoid similar objections in the future.
     
 
   
@@ -175,9 +175,12 @@ An objection is an argument that reveals consequences or risks for the community
   
 Until Patio chooses an instrument that will be used for decision-making, we use the General channel to create a proposal for decision. This is a temporary solution before we dedicate software or just a separate channel where all the decisions will be gathered.  
   
-Please use the title: [Number of the proposal] Proposal for Decision Making [Name of your proposal]  
+**Please use the title:** [Number of the proposal] Proposal for Decision Making [Name of your proposal]  
 In the proposal announce the timeline for each round and initiate the rounds in the tread of your proposal.  
   
 Please invite everyone to use the tread of the proposal for all the discussions.
 
 Once we transit to an instrument for decision-making or another channel, detailed instructions will be presented.
+
+Thank you for being part of the process! :heart: 
+
