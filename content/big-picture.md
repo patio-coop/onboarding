@@ -16,3 +16,5 @@ Here are the main objectives of the Big Picture Circle:
     
 
 The Big Picture Circle, therefore, acts as Patio's strategic linchpin, managing how we align our diverse efforts and how we stay focused on our annual objectives. It embodies Patio's commitment to cooperative solidarity, promoting transparency, accountability, and fostering collaboration.
+
+If you want to contribute to the Circle's activities, please get familiar with the Circle Onboarding document [link to the document] and reach out in the Channel - [link to the channel] for more details. 
