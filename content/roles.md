@@ -1,4 +1,4 @@
-Community Level:
+# Community Level:
 1. Active Member:
 
 An active member regularly participates in community decisions, circle meetings, and community events. They are crucial for the decision-making process as they are directly involved in generating and voting on proposals. Active members have a strong understanding of the community's objectives and principles.
@@ -7,7 +7,7 @@ An active member regularly participates in community decisions, circle meetings,
 
 A passive member may not regularly participate in decision-making or community events, but they support the community and its principles. They might be less visible but contribute in other forms, such as financial support, occasional participation, or sharing community initiatives with their network.
 
-Circle Level:
+# Circle Level:
 1. Circle Member:
 
 Circle members are the individuals who regularly participate in the circle's activities. They are responsible for attending circle meetings, contributing to the making of decisions, and executing the group's tasks and initiatives.
