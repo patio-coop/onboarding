@@ -18,3 +18,4 @@ Here are the primary responsibilities of the Business Development Circle:
 The Business Development Circle, therefore, acts as Patio's strategic compass and growth catalyst, shaping our path forward and how we adapt to opportunities and challenges. It embodies Patio's commitment to sustainable growth, promoting collaboration, and embracing innovation.
 
 For more detailed information of the circles' activities, please check the [Trello Board](...)
+If you want to contribute to the Circle's activities, please get familiar with the Circle Onboarding document [link to the document] and reach out in the Channel - [link to the channel] for more details. 
