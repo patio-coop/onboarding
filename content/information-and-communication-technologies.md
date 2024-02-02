@@ -9,3 +9,5 @@ Here are the central objectives of the ICT Circle:
 2.  **Fostering Internal Technological Engagement**  💡: They facilitate clear and open discussions about technology within the Patio community. By managing and organizing tech-related communication, they ensure that every member is part of our technological evolution.
     
 3.  **Facilitating Technological Training and Support**  🎓: The Circle organizes and delivers tech training sessions and provides ongoing tech support to the community. This fosters a sense of unity, shared learning, and mutual growth within our cooperative.
+
+If you want to contribute to the Circle's activities, please get familiar with the Circle Onboarding document [link to the document] and reach out in the Channel - [link to the channel] for more details. 
