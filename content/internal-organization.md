@@ -18,3 +18,4 @@ Here are the key objectives of the Internal Organization Circle:
 The Internal Organization Circle, therefore, acts as Patio's operational core, managing how we work together and how we strive towards constant improvement. It is a manifestation of Patio's commitment to efficient operations, reinforcing transparency, accountability, and fostering collaboration.
 
 For more detailed information of the circles' activities, please check the [Trello Board](...)
+If you want to contribute to the Circle's activities, please get familiar with the Circle Onboarding document [link to the document] and reach out in the Channel - [link to the channel] for more details. 
