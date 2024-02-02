@@ -18,4 +18,5 @@ Here are the main objectives of the Strategic Alliances Circle:
 The Strategic Alliances Circle, therefore, acts as Patio's bridge to the wider cooperative and social economy movements, managing how we engage with the world and how we learn from our allies. It is the embodiment of Patio's commitment to cooperative solidarity, upholding transparency and fostering collaboration.
 
 For more detailed information of the circles' activities, please check the [Trello Board](..)
+If you want to contribute to the Circle's activities, please get familiar with the Circle Onboarding document [link to the document] and reach out in the Channel - [link to the channel] for more details. 
 
