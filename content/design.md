@@ -18,3 +18,4 @@ Here you can get familiar with the current [brand book](..)
 The Design Circle, therefore, acts as Patio's creative pulse and intuitive mind, managing how we present ourselves to the world and how we listen to our users. It is the embodiment of Patio's commitment to user-centric design, upholding innovation, and fostering collaboration.
 
 For more detailed information of the design activities, please check the [Trello Board](...)
+If you want to contribute to the Circle's activities, please get familiar with the Circle Onboarding document [link to the document] and reach out in the Channel - [link to the channel] for more details. 
