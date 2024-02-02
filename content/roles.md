@@ -7,6 +7,31 @@ An active member regularly participates in community decisions, circle meetings,
 
 A passive member may not regularly participate in decision-making or community events, but they support the community and its principles. They might be less visible but contribute in other forms, such as financial support, occasional participation, or sharing community initiatives with their network.
 
+---
+Transitioning from a Passive Member to Active Member or vice versa involves a change in level of participation within the community. Here's how you can make the transition in either direction:
+
+Passive Member to Active Member:
+
+Express Interest: The first step to becoming an active member is to communicate your intention to the community or circle leaders.
+
+Commit to Participation: Active members are usually expected to attend regular meetings, contribute to discussions, and participate in decision-making. You should be prepared to commit to these responsibilities.
+
+Role Assignment: You might be assigned to a specific role within a circle depending on the community's structure and your interests or skills.
+
+Training and Onboarding: Depending on the community, there might be a training process or onboarding sessions to familiarize new active members with their responsibilities, the principles of sociocracy, and community norms.
+
+Active Member to Passive Member:
+
+Communicate Your Decision: If you wish to become a passive member, communicate this to your circle or the community leadership. It's important to let them know of your changing capacities or preferences so that they can plan accordingly.
+
+Transition Responsibilities: If you're holding a role in a circle, you'll need to ensure a smooth transition of your responsibilities. This might involve training a replacement, documenting your role's tasks, or providing support during a certain transition period.
+
+Stay Engaged: As a passive member, you may not be actively involved in decision-making or regular meetings, but you might still wish to stay informed about the community's initiatives and occasionally participate or contribute.
+
+Remember, the specific process to change member status can vary from community to community based on their specific structures, norms, and rules. Always check the community's guidelines or consult with community leaders for detailed information.
+
+---
+
 # Circle Level:
 1. Circle Member:
 
